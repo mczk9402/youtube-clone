@@ -1,0 +1,14 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #181818;
+}
+
+.main {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  max-width: 620px;
+  margin: 0 auto;
+}
